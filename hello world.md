@@ -1,5 +1,7 @@
 hello world!
 
-**Курсив.*
+*Курсив.*
+
+**полужирный**
 
 start to stady the control of version
