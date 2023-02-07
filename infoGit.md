@@ -19,3 +19,5 @@
 ![](https://sun9-18.userapi.com/impg/Ec3s5svMQXDuS6zcAkXNm-A87piSxtf2zyom4Q/waM5SRerx_s.jpg?size=1664x1644&quality=96&sign=fc95271530fbe32e4ded7bbd2a7ebd92&type=album)
 
 ## Основные команды Git 2-го семинара
+
+**git branch <branch_name>** - создать новую ветку с именем branch_name
